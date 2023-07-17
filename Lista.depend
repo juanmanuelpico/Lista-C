@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1539641888 source:/home/leo/workspacecb/Lista/Nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"Util.h"
+
+1539012869 /home/leo/workspacecb/Lista/Nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1538965540 /home/leo/workspacecb/Lista/Util.h
+
+1538964994 source:/home/leo/workspacecb/Lista/Util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Util.h"
+
+1653677136 source:/home/leo/workspacecb/Lista/Lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1653682396 /home/leo/workspacecb/Lista/Lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1653677287 source:/home/leo/workspacecb/Lista/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Util.h"
+
+1653682396 source:d:\descargas\lista\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1653682396 d:\descargas\lista\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1539012869 d:\descargas\lista\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1538965540 d:\descargas\lista\util.h
+
+1653677287 source:d:\descargas\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Util.h"
+
+1539641888 source:d:\descargas\lista\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"Util.h"
+
+1538964994 source:d:\descargas\lista\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Util.h"
+
+1653682396 source:c:\users\nico_\desktop\lista\lista.c
+	<stdbool.h>
+	"Lista.h"
+	"Util.h"
+	"Nodo.h"
+
+1653682396 c:\users\nico_\desktop\lista\lista.h
+	<stdbool.h>
+	"Nodo.h"
+	"Util.h"
+
+1539012869 c:\users\nico_\desktop\lista\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1538965540 c:\users\nico_\desktop\lista\util.h
+
+1539641888 source:c:\users\nico_\desktop\lista\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"Util.h"
+
+1538964994 source:c:\users\nico_\desktop\lista\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Util.h"
+
+1682376682 source:c:\users\nico_\desktop\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+	"Util.h"
+
+1682422603 source:c:\users\nico_\desktop\listavoidsimplementee-tda\lista.c
+	<stdlib.h>
+	"Lista.h"
+
+1682422587 c:\users\nico_\desktop\listavoidsimplementee-tda\lista.h
+
+1682378033 c:\users\nico_\desktop\listavoidsimplementee-tda\nodo.h
+	<stdio.h>
+	<stdlib.h>
+
+1682380227 c:\users\nico_\desktop\listavoidsimplementee-tda\util.h
+	<stddef.h>
+
+1682424311 source:c:\users\nico_\desktop\listavoidsimplementee-tda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"animal.h"
+	"Lista.h"
+
+1682378080 source:c:\users\nico_\desktop\listavoidsimplementee-tda\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodo.h"
+	"Util.h"
+
+1682380871 source:c:\users\nico_\desktop\listavoidsimplementee-tda\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Util.h"
+
+1651031962 source:c:\users\nico_\desktop\listavoidsimplementee-tda\animal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"animal.h"
+
+1651031962 c:\users\nico_\desktop\listavoidsimplementee-tda\animal.h
+
+1689183823 source:d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\ejemplo lista compleja nico\animal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"animal.h"
+
+1682466264 d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\ejemplo lista compleja nico\animal.h
+
+1689534962 source:d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\ejemplo lista compleja nico\lista.c
+	<stdlib.h>
+	"Lista.h"
+	"animal.h"
+
+1689358508 d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\ejemplo lista compleja nico\lista.h
+
+1689358565 source:d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\ejemplo lista compleja nico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"animal.h"
+	"Lista.h"
+
